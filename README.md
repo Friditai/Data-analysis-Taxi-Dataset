@@ -1,4 +1,4 @@
-# Data analysis: Analyzing Taxi Trip Data with Pandas Python Library
+# Data analysis: Analyzing taxi trip data with Pandas Python library
 
 My code on Kaggle:
 
